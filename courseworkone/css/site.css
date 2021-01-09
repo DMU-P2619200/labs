@@ -1,0 +1,47 @@
+html{
+  font-family: 'Oswald', sans-serif;
+    color: darkslategrey;
+    padding:10px;
+
+}
+img {
+  height:280px;
+  vertical-align: middle;
+}
+img {
+}
+
+.cast-member .cast-bio {
+  width: calc(100% - 280px);
+      display: inline-block;
+}
+
+.cast-member img {
+  vertical-align: top;
+      width: 230px;
+      margin-right: 20px;
+}
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+.menu{
+  background-color:#bab6b6;
+  border: 3px solid black;
+    border-radius: 6px;
+    padding: 12px;
+  padding: 12px;
+    margin: 0 123px;
+    text-align: center;
+}
+
+.menu a {
+  margin:10px;
+}
+
+.cast-member audio {
+      margin-top: 12px;
+}
+.main-text {
+  margin:20px 0;
+}
